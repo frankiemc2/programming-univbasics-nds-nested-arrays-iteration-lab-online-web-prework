@@ -11,6 +11,7 @@ def join_ingredients(src)
     puts "I love \Array and \Array on my pizza"
 
   end
+end
 
 
 
