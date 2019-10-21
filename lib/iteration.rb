@@ -7,9 +7,9 @@ def join_ingredients(src)
   # "I love (inner array element 0) and (inner array element 1) on my pizza""
   # As such, there should be a new String for each inner array, or pair
   Array=[[,],[,]]
-  Array.each do 
+  Array.each do
     puts "I love \Array[,] and \array[,] on my pizza"
-    
+
   end
 
 
